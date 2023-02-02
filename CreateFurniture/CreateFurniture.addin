@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\CreateFurniture.dll</Assembly>
+		<AddInId>4ECDE37B-A067-45A7-92EE-2A8887177D59</AddInId>
+		<FullClassName>CreateFurniture.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание мебели</Text>
+	</AddIn>
+</RevitAddIns>
